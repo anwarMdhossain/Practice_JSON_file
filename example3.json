@@ -1,0 +1,18 @@
+{
+    "people":[
+        {
+            "Name": "Anwar Hossain",
+            "Gender":"Male",
+            "Profession":"Engineer",
+            "hasLicense": true,
+            "emails":["sohel4585@gmail.com","anwar.hossain5854@gmail.com"]
+        } ,
+        {
+            "Name": "Junaina Parvin",
+            "Gender":"Female",
+            "Profession":"Housewife",
+            "hasLicense": false,
+            "emails":null
+        }
+    ]
+}
