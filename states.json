@@ -249,6 +249,11 @@
         "name": "Wyoming",
         "abbreviation": "WY",
         "area_codes": ["307"]
+      },
+      {
+        "name": "Lygic",
+        "abbreviation": "LC",
+        "area_codes": ["309"]
       }
     ]
   }
